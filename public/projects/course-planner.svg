@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="FPGA Traffic Controller placeholder">
+  <rect width="800" height="500" fill="#d0d6dc"/>
+  <rect x="100" y="90" width="600" height="320" rx="6" fill="#eef1f4" stroke="#1a2229" stroke-width="2"/>
+  <g stroke="#5c4030" stroke-width="3">
+    <path d="M140 140 H660"/>
+    <path d="M140 200 H500"/>
+    <path d="M140 260 H620"/>
+    <path d="M140 320 H420"/>
+  </g>
+  <rect x="560" y="180" width="140" height="100" fill="#2f4a3a"/>
+  <circle cx="600" cy="215" r="10" fill="#c0392b"/>
+  <circle cx="640" cy="215" r="10" fill="#f1c40f"/>
+  <circle cx="620" cy="250" r="10" fill="#27ae60"/>
+</svg>

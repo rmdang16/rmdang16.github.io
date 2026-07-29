@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Hardware chip favicon">
+  <rect width="32" height="32" rx="6" fill="#1a2229"/>
+  <rect x="9" y="9" width="14" height="14" rx="2" fill="#5c4030"/>
+  <rect x="12" y="12" width="8" height="8" rx="1" fill="#d9dee3"/>
+  <!-- left pins -->
+  <rect x="4" y="11" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <rect x="4" y="15" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <rect x="4" y="19" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <!-- right pins -->
+  <rect x="23" y="11" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <rect x="23" y="15" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <rect x="23" y="19" width="5" height="2" rx="0.5" fill="#aeb8c2"/>
+  <!-- top pins -->
+  <rect x="11" y="4" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+  <rect x="15" y="4" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+  <rect x="19" y="4" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+  <!-- bottom pins -->
+  <rect x="11" y="23" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+  <rect x="15" y="23" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+  <rect x="19" y="23" width="2" height="5" rx="0.5" fill="#aeb8c2"/>
+</svg>

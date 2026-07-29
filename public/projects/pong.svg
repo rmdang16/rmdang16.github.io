@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Pong game preview">
+  <rect width="800" height="500" fill="#1a2229"/>
+  <!-- court border -->
+  <rect x="40" y="40" width="720" height="420" fill="none" stroke="#5a6672" stroke-width="3"/>
+  <!-- center dashed line -->
+  <g stroke="#6d7a86" stroke-width="4" stroke-dasharray="18 16">
+    <line x1="400" y1="55" x2="400" y2="445"/>
+  </g>
+  <!-- left paddle -->
+  <rect x="70" y="190" width="18" height="110" rx="3" fill="#eef1f4"/>
+  <!-- right paddle -->
+  <rect x="712" y="260" width="18" height="110" rx="3" fill="#eef1f4"/>
+  <!-- ball -->
+  <rect x="470" y="240" width="18" height="18" rx="2" fill="#eef1f4"/>
+</svg>
