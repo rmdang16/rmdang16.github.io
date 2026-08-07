@@ -32,8 +32,8 @@ export const projects: Project[] = [
       'Built a Next.js/Supabase reimbursement dashboard that syncs Google Form submissions, enforces role-based approvals, stores receipts securely, and tracks club spending and balance.',
     imageUrl: '/projects/reimbursement-dashboard.png',
     tech: ['Next.js', 'REST APIs', 'SQL'],
-    demoUrl: 'https://example.com/sensor-hub',
-    repoUrl: 'https://github.com/alexrivera/sensor-hub',
+    demoUrl: 'https://reimbursement-dash.vercel.app/login',
+    repoUrl: 'https://github.com/rmdang16/reimbursement-dashboard',
   },
   {
     title: '5-Stage Pipelined RISC-V Processor',
@@ -50,7 +50,7 @@ export const projects: Project[] = [
       'Created a smart lock system using an Arduino Uno R4 WiFi as an embedded HTTPS server, controlling a servo-actuated deadbolt via authenticated HTTP POST requests secured with SHA-256 hashing',
     imageUrl: '/projects/study-timer.svg',
     tech: ['Arduino', 'C', 'HTTP'],
-    demoUrl: 'https://example.com/fpga-traffic',
+    
     repoUrl: 'https://github.com/rmdang16/remote-door-lock',
   },
   {
@@ -59,7 +59,7 @@ export const projects: Project[] = [
       'A Verilog-based intersection controller simulated in ModelSim and demonstrated on a DE10-Lite with timing diagrams and hazard logic',
     imageUrl: '/projects/pong.svg',
     tech: ['Verilog', 'FPGA', 'Quartus', 'ModelSim'],
-    demoUrl: 'https://example.com/fpga-traffic',
+    
     repoUrl: 'https://github.com/rmdang16/pong',
   },
 ]
