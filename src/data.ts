@@ -6,7 +6,7 @@ export const profile = {
     "I'm a student at Brown University pursuing a Sc.B. in Computer Engineering.",
     'Some of my hobbies include guitar, piano, and volleyball!',
   ],
-  resumeUrl: '/resume.pdf',
+  resumeUrl: '/Ryan Dang Resume.pdf',
   portraitUrl: '/portillo.JPEG',
   email: 'ryan_dang@brown.edu',
 }
@@ -73,24 +73,31 @@ export type Experience = {
 
 export const experience: Experience[] = [
   {
-    role: 'Hardware Engineering Intern',
-    organization: 'SignalForge',
-    period: 'Summer 2025',
+    role: 'Product Engineer',
+    organization: 'Kyron Medical',
+    period: 'Summer 2026',
     description:
       'Assisted with schematic capture, brought up prototype boards, wrote bring-up scripts, and documented test procedures for a sensor subsystem.',
   },
   {
-    role: 'Lab Assistant — Circuits I',
-    organization: 'State University',
-    period: '2024 — Present',
+    role: 'Hardware Security Research Intern',
+    organization: 'Wright State University Research Experience for Undergraduates (REU) ',
+    period: 'Summer 2025',
     description:
-      'Help students with oscilloscope setup, breadboard debugging, and lab report expectations for introductory circuit analysis.',
+      'Implemented a Ring Oscillator Network (RON) on a Basys 3 Artix-7 FPGA in Vivado for hardware Trojan detection using side-channel analysis and measuring frequencies to detect localized power anomalies. Applied machine learning (SVM and Random Forest) with scikit-learn and pandas for hardware Trojan detection, achieving 98.8% accuracy and 2% false positive rate, improving robustness over prior methods',
+  },
+  {
+    role: 'ENGN 0040 Dynamics and Vibrations Teaching Assistant',
+    organization: 'Brown University',
+    period: 'Spring Semester 2025',
+    description:
+      'Led office hours for 20+ students to clarify concepts in kinematics, force balance, and harmonic motion',
   },
   {
     role: 'PCB Manufacturing Intern',
     organization: 'AA Technology',
     period: 'Summer 2024',
     description:
-      'Owned motor driver firmware, sensor calibration routines, and hardware/software integration for the club competition robot.',
+      'Increased conformal coating throughput by 1.5x by optimizing motion paths and programming for a robotic arm Achieved a 5% reduction in lead time by interpreting PCB schematics, developing a bill of materials in Excel, and cross-referencing customer part specifications with datasheets to ensure accuracy with design requirements',
   },
 ]
