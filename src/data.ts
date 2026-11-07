@@ -38,7 +38,7 @@ export const projects: Project[] = [
   {
     title: '5-Stage Pipelined RISC-V Processor',
     description:
-      'A compact current and voltage logger for lab benches, with shunt sensing, OLED readout, and SD card session capture',
+      'Designed a 5-stage RISC-V pipeline in Verilog with hazard detection, data forwarding, branch resolution, and a self-checking testbench verifying functional correctness against expected register and memory state.',
     imageUrl: '/projects/riscv-pipeline.svg',
     tech: ['Verilog', 'Vivado', 'CPU'],
     
