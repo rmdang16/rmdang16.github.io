@@ -22,7 +22,7 @@ export type Project = {
   imageUrl: string
   tech: string[]
   demoUrl?: string
-  repoUrl: string
+  repoUrl?: string
 }
 
 export const projects: Project[] = [
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     imageUrl: '/projects/riscv-pipeline.svg',
     tech: ['Verilog', 'Vivado', 'CPU'],
     
-    repoUrl: ,
+    
   },
   {
     title: 'Remote Door Lock',
