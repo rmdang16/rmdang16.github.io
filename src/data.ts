@@ -42,7 +42,7 @@ export const projects: Project[] = [
     imageUrl: '/projects/riscv-pipeline.svg',
     tech: ['Verilog', 'Vivado', 'CPU'],
     
-    
+    repoUrl: ,
   },
   {
     title: 'Remote Door Lock',
